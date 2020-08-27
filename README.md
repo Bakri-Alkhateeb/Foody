@@ -2,6 +2,8 @@
 
 A flutter application for online food ordering
 
+**check the foody-api repo for the api associated with this project**
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
