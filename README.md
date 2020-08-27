@@ -1,6 +1,6 @@
 # foody
 
-A new Flutter application.
+A flutter application for online food ordering
 
 ## Getting Started
 
